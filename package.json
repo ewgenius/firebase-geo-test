@@ -1,0 +1,21 @@
+{
+  "name": "firebase-geo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.3.13",
+    "jade-loader": "^0.8.0",
+    "webpack": "^1.12.13"
+  },
+  "dependencies": {
+    "three": "^0.73.2"
+  }
+}
