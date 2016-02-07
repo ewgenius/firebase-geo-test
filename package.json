@@ -16,6 +16,9 @@
     "webpack": "^1.12.13"
   },
   "dependencies": {
-    "three": "^0.73.2"
+    "firebase": "^2.4.0",
+    "geofire": "^3.2.4",
+    "three": "^0.73.2",
+    "three-orbit-controls": "^72.0.0"
   }
 }
